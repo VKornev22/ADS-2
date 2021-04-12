@@ -58,7 +58,7 @@ int countPairs3(int *arr, int len, int value) {
       else
         left = midd;
       }
-   } else {
+    } else {
       right--;
       }
   }
